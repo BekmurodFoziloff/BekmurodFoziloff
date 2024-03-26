@@ -1,6 +1,6 @@
 ![counter](https://enr7q3ws9pvzpj1.m.pipedream.net) 
 <!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=23%20y.o%20Bekmurod%20Fozilov&desc=Node.js%20Backend%20Developer%20&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=009FBD)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=24%20y.o%20Bekmurod%20Fozilov&desc=Node.js%20Backend%20Developer%20&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=009FBD)
 
 <h3 align="center">
     Welcome to My Profile! 🙋🏻‍♂️ 
